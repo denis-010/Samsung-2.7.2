@@ -1,0 +1,9 @@
+<resources>
+    <string name="greetings">Добро пожаловать!</string>
+    <string name="app_name">My Application</string>
+    <string name="enter">Войти</string>
+    <string name="pswdhint">Ваш пароль</string>
+    <string name="emlhint">Ваш логин</string>
+    <string name="pword">io12er</string>
+    <string name="eml">onemore12345@gml.com</string>
+</resources>
